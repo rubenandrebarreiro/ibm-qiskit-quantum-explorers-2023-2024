@@ -1,1 +1,1 @@
-# ibm-qiskit-quantum-explorers-2023-2024
+# IBM's Qiskit - Quantum Explorers 2023-2024
