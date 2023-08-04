@@ -48,7 +48,11 @@
 
 > **IMPORTANT**
 >
-> ##### &nbsp;&nbsp;&#8226; The program is live from July 2023 to February 2024. The total materials cover approximately 50 to 85 hours spanning over these 7 months. The level of engagement depends on the participant.
+> ##### &nbsp;&nbsp;&#8226; The event's program is live from July 2023 to February 2024.
+>
+> ##### &nbsp;&nbsp;&#8226; The total materials cover approximately 50 to 85 hours spanning over these 7 months.
+>
+> ##### &nbsp;&nbsp;&#8226; The level of engagement depends on the participant.
 >
 > ##### &nbsp;&nbsp;&#8226; Curated beginner to intermediate syllabi to gain a foundational understanding of Quantum Computing and some of its applications, such as Quantum Error Correction, Quantum Error Mitigation, Quantum Machine Learning, Quantum Deep Learning, and Quantum Optimization.
 >
@@ -56,7 +60,7 @@
 >
 > ##### &nbsp;&nbsp;&#8226; Learners choose their own pace and craft their own learning paths.
 >
-> ##### &nbsp;&nbsp;&#8226; The unlocking of achievements and respective badges, culminate in an IBM Certification.
+> ##### &nbsp;&nbsp;&#8226; The unlocking of achievements and respective badges, culminate in an official IBM Certification.
 >
 > ##### &nbsp;&nbsp;&#8226; Amazing mentors are ready to help guide you on the official event's Discord server.
 
