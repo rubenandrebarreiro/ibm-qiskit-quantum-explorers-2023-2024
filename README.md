@@ -36,16 +36,29 @@
 [![forks](https://img.shields.io/github/forks/rubenandrebarreiro/ibm-qiskit-quantum-explorers-2023-2024?style=social)](https://github.com/rubenandrebarreiro/ibm-qiskit-quantum-explorers-2023-2024)
 
 
-
 ## Description
 
-> 
+> IBM's Qiskit: Quantum Explorers is a self-paced, game-based quantum computing learning program for students, researchers, and enthusiasts. The theme of the 2023-2024 learning journey is Space Exploration. You'll embark on an interstellar journey as the captain of a starship and grow proficiency in quantum computing along the way.
+
+> Anyone can join, from students to industry professionals to quantum enthusiasts! The program is beginner-friendly, though it increases in difficulty as achievements are unlocked. The program is comprised of engaging study materials, seminars, gamified achievements to unlock, community events, and career advice.
+
+> Participants will gain a general understanding of quantum computing, learn some of its applications such as quantum machine learning and quantum optimization, and program real quantum computers.
+
+> There are seven themed achievements to unlock with corresponding badges to collect. Each badge has a learning module, event, or set of tasks associated with it that must be completed in order to unlock its achievement. The program culminates in a certification based on how many badges you collect.
 
 > **IMPORTANT**
 >
-> 
+> ##### &nbsp;&nbsp;&#8226; The program is live from July 2023 to February 2024. The total materials cover approximately 50 to 85 hours spanning over these 7 months. The level of engagement depends on the participant.
 >
-> 
+> ##### &nbsp;&nbsp;&#8226; Curated beginner to intermediate syllabi to gain a foundational understanding of Quantum Computing and some of its applications, such as Quantum Error Correction, Quantum Error Mitigation, Quantum Machine Learning, Quantum Deep Learning, and Quantum Optimization.
+>
+> ##### &nbsp;&nbsp;&#8226; Learners interact and network in a dedicated space through community activities and discussions.
+>
+> ##### &nbsp;&nbsp;&#8226; Learners choose their own pace and craft their own learning paths.
+>
+> ##### &nbsp;&nbsp;&#8226; The unlocking of achievements and respective badges, culminate in an IBM Certification.
+>
+> ##### &nbsp;&nbsp;&#8226; Amazing mentors are ready to help guide you on the official event's Discord server.
 
 ***
 
