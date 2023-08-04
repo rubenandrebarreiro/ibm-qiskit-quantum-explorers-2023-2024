@@ -54,7 +54,7 @@
 >
 > ##### &nbsp;&nbsp;&#8226; The level of engagement depends on the participant.
 >
-> ##### &nbsp;&nbsp;&#8226; Curated beginner to intermediate syllabi to gain a foundational understanding of Quantum Computing and some of its applications, such as Quantum Error Correction, Quantum Error Mitigation, Quantum Machine Learning, Quantum Deep Learning, and Quantum Optimization.
+> ##### &nbsp;&nbsp;&#8226; Curated beginner to intermediate syllabuses to gain a foundational understanding of<br>&nbsp;&nbsp;&nbsp;&nbsp;Quantum Computing and some of its applications, such as Quantum Error Correction,<br>&nbsp;&nbsp;&nbsp;&nbsp;Quantum Error Mitigation, Quantum Machine Learning, Quantum Deep Learning,<br>&nbsp;&nbsp;&nbsp;&nbsp;and Quantum Optimization.
 >
 > ##### &nbsp;&nbsp;&#8226; Learners interact and network in a dedicated space through community activities and discussions.
 >
