@@ -38,7 +38,7 @@
 
 ## Description
 
-> The [**_IBM's Qiskit: Quantum Explorers_**](http://qisk.it/quantum-explorers) is a **self-paced**, **game-based quantum computing learning program** for students, researchers, and enthusiasts. The theme of the 2023-2024 learning journey is **Space Exploration**. You'll embark on an interstellar journey as the captain of a starship and grow proficiency in Quantum Computing along the way.
+> The [**_IBM's Qiskit: Quantum Explorers_**](http://qisk.it/quantum-explorers) is a **self-paced**, **game-based quantum computing learning program** for students, researchers, and enthusiasts. The theme of the 2023-2024 learning journey is **Space Exploration**. You will embark on an **interstellar journey** as the **captain of a starship** and **grow proficiency in Quantum Computing** along the way.
 
 > Anyone can join, from students to industry professionals to quantum enthusiasts! The program is beginner-friendly, though it increases in difficulty as achievements are unlocked. The program is comprised of engaging **study materials**, **seminars**, **gamified achievements to unlock**, **community events**, and **career advice**.
 
