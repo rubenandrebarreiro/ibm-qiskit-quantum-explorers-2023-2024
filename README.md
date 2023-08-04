@@ -54,7 +54,7 @@
 >
 > ##### &nbsp;&nbsp;&#8226; The level of engagement depends on the participant.
 >
-> ##### &nbsp;&nbsp;&#8226; Curated beginner to intermediate syllabuses to gain a foundational understanding of<br>&nbsp;&nbsp;&nbsp;&nbsp;[**_Quantum Computing_**]() and some of its applications, such as [**_Quantum Error Correction_**](https://en.wikipedia.org/wiki/Quantum_error_correction),<br>&nbsp;&nbsp;&nbsp;&nbsp;**_Quantum Error Mitigation_**, [**_Quantum Machine Learning_**](https://en.wikipedia.org/wiki/Quantum_machine_learning), **_Quantum Deep Learning_**,<br>&nbsp;&nbsp;&nbsp;&nbsp;and [**_Quantum Optimization_**](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms).
+> ##### &nbsp;&nbsp;&#8226; Curated beginner to intermediate syllabuses to gain a foundational understanding of<br>&nbsp;&nbsp;&nbsp;&nbsp;[**_Quantum Computing_**]() and some of its applications, such as [**_Quantum Error Correction_**](https://en.wikipedia.org/wiki/Quantum_error_correction),<br>&nbsp;&nbsp;&nbsp;&nbsp;[**_Quantum Error Mitigation_**](https://research.ibm.com/blog/quantum-error-suppression-mitigation-correction), [**_Quantum Machine Learning_**](https://en.wikipedia.org/wiki/Quantum_machine_learning), [**_Quantum Deep Learning_**](https://en.wikipedia.org/wiki/Quantum_machine_learning),<br>&nbsp;&nbsp;&nbsp;&nbsp;and [**_Quantum Optimization_**](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms).
 >
 > ##### &nbsp;&nbsp;&#8226; Learners interact and network in a dedicated space through community activities and discussions.
 >
