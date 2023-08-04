@@ -1,4 +1,5 @@
 # IBM's Qiskit: Quantum Explorers 2023-2024
+## A self-paced quantum learning journey for beginners
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/ibm-qiskit-quantum-explorers-2023-2024/master/imgs/jpgs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/ibm-qiskit-quantum-explorers-2023-2024/master/imgs/jpgs/banner-1.jpg)
 ###### **_IBM's Qiskit_**: Quantum Explorers 2023-2024 - Banner #1
