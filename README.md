@@ -60,3 +60,69 @@
 ###### **_IBM's Qiskit_**: Quantum Explorers 2023-2024 - Labs' Screenshot #2
 
 ***
+
+
+
+***
+
+## Getting Started
+
+### Prerequisites
+To install and run this application, you will need:
+> The [**_Git_**](https://git-scm.com/) feature and/or a [**_third-party Git Client based GUI_**](https://git-scm.com/downloads/guis/), like:
+* [**_GitHub Desktop_**](https://desktop.github.com/), [**_GitKraken_**](https://www.gitkraken.com/), [**_SourceTree_**](https://www.sourcetreeapp.com/) or [**_TortoiseGit_**](https://tortoisegit.org/).
+
+### Installation
+To install this application, you will only need to _download_ or _clone_ this repository and run the application locally:
+
+> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/ibm-qiskit-quantum-explorers-2023-2024/archive/master.zip) in download section of this repository.
+
+> Or instead, by cloning this repository by a [**_Git Client based GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
+* [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
+```
+https://github.com/rubenandrebarreiro/ibm-qiskit-quantum-explorers-2023-2024.git
+```
+* [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
+```
+git@github.com:rubenandrebarreiro/ibm-qiskit-quantum-explorers-2023-2024.git
+```
+
+> Or even, by running one of the following commands in a **_Git Bash Console_**:
+* [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
+```
+git clone https://github.com/rubenandrebarreiro/ibm-qiskit-quantum-explorers-2023-2024.git
+```
+* [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
+```
+git clone git@github.com:rubenandrebarreiro/ibm-qiskit-quantum-explorers-2023-2024.git
+```
+
+## Built with
+* [**_Jupyter Notebook_**](https://www.jupyter.org/)
+* [**_Python_**](http://www.python.org/)
+* [**_Qiskit_**](https://www.qiskit.org/)
+* [**_IBM Quantum_**](https://www.quantum-computing.ibm.com/)
+
+## Contributors
+
+> [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
+
+## Contacts
+
+### Rúben André Barreiro
+#### E-mails
+* [ruben.andre.letra.barreiro@tecnico.ulisboa.pt](mailto:ruben.andre.letra.barreiro@tecnico.ulisboa.pt)
+* [ruben.andre.letra.barreiro@gmail.com](mailto:ruben.andre.letra.barreiro@gmail.com)
+* [ruben.andre.letra.barreiro@yahoo.com](mailto:ruben.andre.letra.barreiro@yahoo.com)
+
+## Portfolios/Blogs and Git Hosting/Repository Services
+
+### Rúben André Barreiro
+#### GitHub's Portfolio/Personal Blog
+* [https://rubenandrebarreiro.github.io/](https://rubenandrebarreiro.github.io/)
+
+#### Hosting/Repository Services
+* [https://github.com/rubenandrebarreiro/](https://github.com/rubenandrebarreiro/)
+* [https://gitlab.com/rubenandrebarreiro/](https://gitlab.com/rubenandrebarreiro/)
+* [https://bitbucket.org/rubenandrebarreiro/](https://bitbucket.org/rubenandrebarreiro/)
+* [https://dev.azure.com/rubenandrebarreiro/](https://dev.azure.com/rubenandrebarreiro/)
