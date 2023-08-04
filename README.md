@@ -38,13 +38,13 @@
 
 ## Description
 
-> IBM's Qiskit: Quantum Explorers is a self-paced, game-based quantum computing learning program for students, researchers, and enthusiasts. The theme of the 2023-2024 learning journey is Space Exploration. You'll embark on an interstellar journey as the captain of a starship and grow proficiency in quantum computing along the way.
+> The [**_IBM's Qiskit: Quantum Explorers_**](http://qisk.it/quantum-explorers) is a **self-paced**, **game-based quantum computing learning program** for students, researchers, and enthusiasts. The theme of the 2023-2024 learning journey is **Space Exploration**. You'll embark on an interstellar journey as the captain of a starship and grow proficiency in Quantum Computing along the way.
 
-> Anyone can join, from students to industry professionals to quantum enthusiasts! The program is beginner-friendly, though it increases in difficulty as achievements are unlocked. The program is comprised of engaging study materials, seminars, gamified achievements to unlock, community events, and career advice.
+> Anyone can join, from students to industry professionals to quantum enthusiasts! The program is beginner-friendly, though it increases in difficulty as achievements are unlocked. The program is comprised of engaging **study materials**, **seminars**, **gamified achievements to unlock**, **community events**, and **career advice**.
 
-> Participants will gain a general understanding of quantum computing, learn some of its applications such as quantum machine learning and quantum optimization, and program real quantum computers.
+> Participants will **gain a general understanding of Quantum Computing**, learn some of its applications such as **Quantum Machine Learning** and **Quantum Optimization**, and **program real quantum computers**.
 
-> There are seven themed achievements to unlock with corresponding badges to collect. Each badge has a learning module, event, or set of tasks associated with it that must be completed in order to unlock its achievement. The program culminates in a certification based on how many badges you collect.
+> There are seven themed achievements to unlock with corresponding badges to collect. Each **badge** has a **learning module**, **event**, or **set of tasks** associated with it, that must be completed in order to **unlock its achievement**. The program culminates in the awarding of a **certification** based on how many badges you collect.
 
 > **IMPORTANT**
 >
@@ -54,7 +54,7 @@
 >
 > ##### &nbsp;&nbsp;&#8226; The level of engagement depends on the participant.
 >
-> ##### &nbsp;&nbsp;&#8226; Curated beginner to intermediate syllabuses to gain a foundational understanding of<br>&nbsp;&nbsp;&nbsp;&nbsp;Quantum Computing and some of its applications, such as Quantum Error Correction,<br>&nbsp;&nbsp;&nbsp;&nbsp;Quantum Error Mitigation, Quantum Machine Learning, Quantum Deep Learning,<br>&nbsp;&nbsp;&nbsp;&nbsp;and Quantum Optimization.
+> ##### &nbsp;&nbsp;&#8226; Curated beginner to intermediate syllabuses to gain a foundational understanding of<br>&nbsp;&nbsp;&nbsp;&nbsp;[**_Quantum Computing_**]() and some of its applications, such as [**_Quantum Error Correction_**](https://en.wikipedia.org/wiki/Quantum_error_correction),<br>&nbsp;&nbsp;&nbsp;&nbsp;**_Quantum Error Mitigation_**, [**_Quantum Machine Learning_**](https://en.wikipedia.org/wiki/Quantum_machine_learning), **_Quantum Deep Learning_**,<br>&nbsp;&nbsp;&nbsp;&nbsp;and [**_Quantum Optimization_**](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms).
 >
 > ##### &nbsp;&nbsp;&#8226; Learners interact and network in a dedicated space through community activities and discussions.
 >
